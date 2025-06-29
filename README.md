@@ -80,4 +80,23 @@ The dataset is obtained from IBM's sample datasets:
     - Product Type
     - Quantity
 
+# WEEK 4 -Exploratory Data Analysis (EDA) Script
+This Python script performs a comprehensive Exploratory Data Analysis (EDA) on any CSV dataset. It helps you understand the data by identifying distributions, missing values, outliers, and relationships between variables using powerful visualizations.
 
+## 🔍 Features
+Data overview (shape, types, summary stats)
+
+Missing value detection with heatmap
+
+Distribution plots (histograms + KDE)
+
+Outlier detection using box plots & IQR
+
+Correlation matrix with heatmap
+
+Pairwise relationships using Seaborn pairplot
+
+## 📦 Requirements
+Python 3.6+
+
+pandas, numpy, seaborn, matplotlib
